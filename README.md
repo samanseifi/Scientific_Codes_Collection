@@ -1,3 +1,2 @@
-# CFDPractice
-Simple computational fluid dynamic codes in julia and MATLAB language for practice and also for ME702 homeworks.
-  
+# Scientific Codes Collection
+This repo contains simple scientific codes covering methods and applications in fluid dynamics, computational mechanics, materials sceince and physics.
